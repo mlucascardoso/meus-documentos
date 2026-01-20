@@ -1,3 +1,1 @@
-Criando um arquivo txt para praticar minha primeira branch
-Criando erros para depois desfazer o commit
-criando conflitos
+Criando um arquiivo txt para praticar minha primeira branch
