@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 criando este arquivo para minha - conflito
+=======
+criando este arquivo para minha
+>>>>>>> terceira-branch
