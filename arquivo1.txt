@@ -1,2 +1,8 @@
 Criando um arquivo txt para praticar minha primeira branch
+<<<<<<< HEAD
 Criando erros para depois desfazer o commit
+=======
+criando conflito
+criando conlfito2
+criando conflito3
+>>>>>>> segunda-branch
