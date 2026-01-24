@@ -1,2 +1,0 @@
-Criando um arquivo txt para praticar minha primeira branch
-Criando erros para depois desfazer o commit

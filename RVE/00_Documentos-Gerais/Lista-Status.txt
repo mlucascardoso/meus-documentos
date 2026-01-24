@@ -1,1 +1,5 @@
-criando conflito tentativa n300
+criando conflito
+1-Templates
+2-Cronogramas
+3-Custo-Alocação
+
